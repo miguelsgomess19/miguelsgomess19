@@ -20,7 +20,7 @@
 - ☕ Café + Código = ❤️
 
 ---
-### 📚 Atualmente aprendendo
+### 📚 Vou aprender
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,php,postgres,aws" />
