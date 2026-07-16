@@ -56,13 +56,7 @@
 
 ---
 
-## 🏆 Troféus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=miguelsgomess19&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 📈 Atividade
 
@@ -72,13 +66,7 @@
 
 ---
 
-## 🐍 Contribuições
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/miguelsgomess19/miguelsgomess19/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
 
 ## 🎯 Objetivos
 
