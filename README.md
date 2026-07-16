@@ -5,31 +5,21 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Sempre+aprendendo+novas+tecnologias;Java+•+PHP+•+PostgreSQL+•+AWS;Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Apaixonado+por+Tecnologia;Node.js+%7C+React+%7C+TypeScript;Sempre+Construindo+Algo+Novo" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-✨ Sou um desenvolvedor apaixonado por tecnologia e por criar soluções modernas, escaláveis e eficientes.
+✨ Desenvolvedor apaixonado por tecnologia e criação de soluções modernas.
 
-- 💻 Desenvolvedor Full Stack
-- 🌱 Atualmente aprendendo **Java**, **PHP**, **PostgreSQL** e **AWS**
-- 📚 Estudando arquitetura de software, cloud computing e boas práticas
-- 🚀 Sempre buscando evoluir como desenvolvedor
+- 💻 Full Stack Developer
+- 🌱 Aprendendo novas tecnologias todos os dias
+- 🚀 Sempre buscando evoluir
 - ☕ Café + Código = ❤️
 
 ---
-
-## 🛠️ Tecnologias
-
-### 💼 Já utilizo
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,mysql,mongodb,git,github,vscode" />
-</p>
-
 ### 📚 Atualmente aprendendo
 
 <p align="center">
@@ -37,27 +27,6 @@
 </p>
 
 ---
-
-
-## 🔥 Sequência de contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=miguelsgomess19&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-
-## 📈 Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsgomess19&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-
 
 ## 🎯 Objetivos
 
@@ -69,20 +38,47 @@
 
 ---
 
+## 🛠 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,tailwind,mysql,mongodb,postgres,docker,git,github,vscode" />
+
+</p>
+
+---
+
+
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=miguelsgomess19&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+
+
 ## 🌎 Onde me encontrar
 
 <p align="center">
+
 <a href="https://github.com/miguelsgomess19">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=miguelsgomess19&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=miguelsgomess19&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <h3 align="center">
-⭐ "A evolução acontece uma linha de código por vez."
+⭐ Obrigado pela visita!
 </h3>
+```
