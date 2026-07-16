@@ -1,4 +1,3 @@
-```md
 <h1 align="center">👋 Olá, eu sou Miguel Gomes</h1>
 
 <h3 align="center">
