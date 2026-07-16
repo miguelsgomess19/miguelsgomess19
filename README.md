@@ -38,6 +38,48 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelsgomess19&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsgomess19&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=miguelsgomess19&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Troféus
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=miguelsgomess19&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsgomess19&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/miguelsgomess19/miguelsgomess19/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
 ## 🎯 Objetivos
 
 - 🚀 Dominar **Java**
@@ -51,15 +93,9 @@
 ## 🌎 Onde me encontrar
 
 <p align="center">
-
 <a href="https://github.com/miguelsgomess19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/miguel-gomes-265111407/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -71,5 +107,3 @@
 <h3 align="center">
 ⭐ "A evolução acontece uma linha de código por vez."
 </h3>
-
-
